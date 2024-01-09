@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedi13&label=Profile%20views&color=0e75b6&style=flat" alt="zedi13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zedi13" alt="zedi13" /></a> </p>
-
 - 🔭 I’m currently working on [SiteBDD](https://github.com/Zedi13/SiteBDD)
 
 - 🌱 I’m currently learning **PHP and python**
