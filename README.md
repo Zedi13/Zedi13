@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP and python**
 
-- 📫 How to reach me **Phone : (33+) 7 61 19 72 15 E-mail : chatainflorian1**
+- 📫 How to reach me **Phone : (33+) 7 61 19 72 15 E-mail : chatainflorian1@gmail.com
 
 - ⚡ Fun fact **I am left-handed and very handsome.**
 
