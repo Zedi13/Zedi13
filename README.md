@@ -84,8 +84,3 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zedi13&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top languages" />
-</p>
